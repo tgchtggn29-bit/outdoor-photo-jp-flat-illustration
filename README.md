@@ -29,10 +29,9 @@ codex plugin marketplace add https://github.com/tgchtggn29-bit/outdoor-photo-jp-
 ## 使用
 
 把一张户外照片发给 Codex，并说明“用 outdoor-photo-jp-flat-illustration 转成日式扁平插画”，即可生成对应风格的插画提示词。
+<img width="1382" height="2304" alt="outdoor-desert-trekker-jp-flat" src="https://github.com/user-attachments/assets/e84ba287-175e-4b87-9bf1-c56498ca0f58" />
 
-![Uploading outdoor-desert-trekker-jp-flat.png…]()
-![Uploading outdoor-photo-jp-flat-illustration.png…]()
-![Uploading outdoor-coastal-hiker-jp-flat.png…]()
-![Uploading outdoor-cave-lantern-hiker-jp-flat.png…]()
 <img width="1632" height="2176" alt="outdoor-camp-hiker-jp-flat" src="https://github.com/user-attachments/assets/5fb43739-11b5-40ee-a96b-152aba9feb93" />
 <img width="1632" height="2176" alt="outdoor-bikepacking-flatlay-jp-flat" src="https://github.com/user-attachments/assets/8f7f928d-2234-40e3-bc7b-d6c7a55f7f78" />
+<img width="1632" height="2176" alt="outdoor-coastal-hiker-jp-flat" src="https://github.com/user-attachments/assets/e8463d4c-553d-4ed9-b008-adf9ed33599f" />
+<img width="1632" height="2176" alt="outdoor-photo-jp-flat-illustration" src="https://github.com/user-attachments/assets/d343cc13-8b8d-48da-9816-400a90021b09" />
