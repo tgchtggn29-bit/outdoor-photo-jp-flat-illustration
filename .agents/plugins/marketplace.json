@@ -1,0 +1,20 @@
+{
+  "name": "outdoor-photo-jp-flat-illustration",
+  "interface": {
+    "displayName": "Outdoor Photo JP Flat Illustration"
+  },
+  "plugins": [
+    {
+      "name": "outdoor-photo-jp-flat-illustration",
+      "source": {
+        "source": "local",
+        "path": "./plugins/outdoor-photo-jp-flat-illustration"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}
