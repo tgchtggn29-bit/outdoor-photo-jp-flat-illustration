@@ -1,7 +1,7 @@
 # outdoor-photo-jp-flat-illustration
 
 把用户提供的徒步、露营、登山、滑雪、骑行或旅行人物照片，转为温和、简洁、日式扁平卡通素材插画提示词的 Codex 插件。
-
+outdoor-bikepacking-flatlay-jp-flat.png
 ## 安装
 
 在 Codex 中运行：
