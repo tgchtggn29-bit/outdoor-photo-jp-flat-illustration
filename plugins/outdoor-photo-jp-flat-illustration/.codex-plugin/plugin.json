@@ -1,0 +1,28 @@
+{
+  "name": "outdoor-photo-jp-flat-illustration",
+  "version": "0.1.0",
+  "description": "Turn outdoor photos into warm, simple Japanese flat-illustration prompts.",
+  "author": {
+    "name": "Local developer"
+  },
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Outdoor Photo Jp Flat Illustration",
+    "shortDescription": "把户外照片转成温和简洁的日式扁平插画提示词",
+    "longDescription": "将徒步、露营、登山、滑雪、骑行或旅行人物照片，转为温和、简洁、日式扁平卡通素材插画。插件内置完整的 SKILL.md 工作流、风格与画质参考文档、提示词生成脚本（scripts/build_prompt.py）以及提示词模板（templates/）。",
+    "developerName": "Local developer",
+    "category": "Productivity",
+    "capabilities": [],
+    "defaultPrompt": [
+      "把这张户外照片转成日式扁平插画风格",
+      "用 outdoor-photo-jp-flat-illustration 处理这张露营照片"
+    ]
+  },
+  "keywords": [
+    "illustration",
+    "flat-design",
+    "japanese",
+    "outdoor",
+    "photo-to-illustration"
+  ]
+}
